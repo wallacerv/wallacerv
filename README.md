@@ -21,11 +21,11 @@
 
 ###
 
-<img align="right" height="150" src="https://www.moblee.com.br/blog/wp-content/uploads/sites/2/2018/04/jim-carrey-digitando-no-computador.gif"  />
+<h3 align="left">|Tecnologias</h3>
 
 ###
 
-<h3 align="left">|Tecnologias</h3>
+<img align="right" height="150" src="https://www.moblee.com.br/blog/wp-content/uploads/sites/2/2018/04/jim-carrey-digitando-no-computador.gif"  />
 
 ###
 
@@ -60,11 +60,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wallacerv/wallacerv/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wallacerv/wallacerv/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/wallacerv/wallacerv/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/wallacerv/wallacerv/output/snake.svg" alt="Snake animation" />
 
 ###
 
